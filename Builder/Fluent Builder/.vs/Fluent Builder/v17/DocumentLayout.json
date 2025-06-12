@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Design Patterns\\Builder\\Fluent Builder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53D2E6F9-7DE0-431A-A98D-510F553099C4}|Fluent Builder\\Fluent Builder.csproj|d:\\design patterns\\builder\\fluent builder\\fluent builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53D2E6F9-7DE0-431A-A98D-510F553099C4}|Fluent Builder\\Fluent Builder.csproj|solutionrelative:fluent builder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:964794552:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2146387278:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1934565743:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Design Patterns\\Builder\\Fluent Builder\\Fluent Builder\\Program.cs",
+              "RelativeDocumentMoniker": "Fluent Builder\\Program.cs",
+              "ToolTip": "D:\\Design Patterns\\Builder\\Fluent Builder\\Fluent Builder\\Program.cs",
+              "RelativeToolTip": "Fluent Builder\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAwwFgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:28:26.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

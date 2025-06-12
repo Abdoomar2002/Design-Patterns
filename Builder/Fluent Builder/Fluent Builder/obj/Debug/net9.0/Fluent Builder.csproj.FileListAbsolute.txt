@@ -1,0 +1,15 @@
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\bin\Debug\net9.0\Fluent Builder.exe
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\bin\Debug\net9.0\Fluent Builder.deps.json
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\bin\Debug\net9.0\Fluent Builder.runtimeconfig.json
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\bin\Debug\net9.0\Fluent Builder.dll
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\bin\Debug\net9.0\Fluent Builder.pdb
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\obj\Debug\net9.0\Fluent Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\obj\Debug\net9.0\Fluent Builder.AssemblyInfoInputs.cache
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\obj\Debug\net9.0\Fluent Builder.AssemblyInfo.cs
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\obj\Debug\net9.0\Fluent Builder.csproj.CoreCompileInputs.cache
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\obj\Debug\net9.0\Fluent Builder.sourcelink.json
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\obj\Debug\net9.0\Fluent Builder.dll
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\obj\Debug\net9.0\refint\Fluent Builder.dll
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\obj\Debug\net9.0\Fluent Builder.pdb
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\obj\Debug\net9.0\Fluent Builder.genruntimeconfig.cache
+D:\Design Patterns\Builder\Fluent Builder\Fluent Builder\obj\Debug\net9.0\ref\Fluent Builder.dll
