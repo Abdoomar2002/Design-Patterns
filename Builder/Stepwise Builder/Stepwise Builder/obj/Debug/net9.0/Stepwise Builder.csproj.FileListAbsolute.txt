@@ -1,0 +1,15 @@
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\bin\Debug\net9.0\Stepwise Builder.exe
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\bin\Debug\net9.0\Stepwise Builder.deps.json
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\bin\Debug\net9.0\Stepwise Builder.runtimeconfig.json
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\bin\Debug\net9.0\Stepwise Builder.dll
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\bin\Debug\net9.0\Stepwise Builder.pdb
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\obj\Debug\net9.0\Stepwise Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\obj\Debug\net9.0\Stepwise Builder.AssemblyInfoInputs.cache
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\obj\Debug\net9.0\Stepwise Builder.AssemblyInfo.cs
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\obj\Debug\net9.0\Stepwise Builder.csproj.CoreCompileInputs.cache
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\obj\Debug\net9.0\Stepwise Builder.sourcelink.json
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\obj\Debug\net9.0\Stepwise Builder.dll
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\obj\Debug\net9.0\refint\Stepwise Builder.dll
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\obj\Debug\net9.0\Stepwise Builder.pdb
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\obj\Debug\net9.0\Stepwise Builder.genruntimeconfig.cache
+D:\Design Patterns\Builder\Stepwise Builder\Stepwise Builder\obj\Debug\net9.0\ref\Stepwise Builder.dll
