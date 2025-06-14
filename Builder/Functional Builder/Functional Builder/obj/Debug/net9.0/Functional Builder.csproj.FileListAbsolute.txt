@@ -1,0 +1,15 @@
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\obj\Debug\net9.0\Functional Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\obj\Debug\net9.0\Functional Builder.AssemblyInfoInputs.cache
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\obj\Debug\net9.0\Functional Builder.AssemblyInfo.cs
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\obj\Debug\net9.0\Functional Builder.csproj.CoreCompileInputs.cache
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\obj\Debug\net9.0\Functional Builder.sourcelink.json
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\bin\Debug\net9.0\Functional Builder.exe
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\bin\Debug\net9.0\Functional Builder.deps.json
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\bin\Debug\net9.0\Functional Builder.runtimeconfig.json
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\bin\Debug\net9.0\Functional Builder.dll
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\bin\Debug\net9.0\Functional Builder.pdb
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\obj\Debug\net9.0\Functional Builder.dll
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\obj\Debug\net9.0\refint\Functional Builder.dll
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\obj\Debug\net9.0\Functional Builder.pdb
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\obj\Debug\net9.0\Functional Builder.genruntimeconfig.cache
+D:\Design Patterns\Builder\Functional Builder\Functional Builder\obj\Debug\net9.0\ref\Functional Builder.dll
