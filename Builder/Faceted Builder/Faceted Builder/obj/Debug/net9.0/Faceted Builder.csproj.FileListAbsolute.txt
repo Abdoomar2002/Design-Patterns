@@ -1,0 +1,15 @@
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\bin\Debug\net9.0\Faceted Builder.exe
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\bin\Debug\net9.0\Faceted Builder.deps.json
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\bin\Debug\net9.0\Faceted Builder.runtimeconfig.json
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\bin\Debug\net9.0\Faceted Builder.dll
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\bin\Debug\net9.0\Faceted Builder.pdb
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\obj\Debug\net9.0\Faceted Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\obj\Debug\net9.0\Faceted Builder.AssemblyInfoInputs.cache
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\obj\Debug\net9.0\Faceted Builder.AssemblyInfo.cs
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\obj\Debug\net9.0\Faceted Builder.csproj.CoreCompileInputs.cache
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\obj\Debug\net9.0\Faceted Builder.sourcelink.json
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\obj\Debug\net9.0\Faceted Builder.dll
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\obj\Debug\net9.0\refint\Faceted Builder.dll
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\obj\Debug\net9.0\Faceted Builder.pdb
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\obj\Debug\net9.0\Faceted Builder.genruntimeconfig.cache
+D:\Design Patterns\Builder\Faceted Builder\Faceted Builder\obj\Debug\net9.0\ref\Faceted Builder.dll
