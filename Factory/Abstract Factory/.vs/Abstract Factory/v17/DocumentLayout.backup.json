@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Design Patterns\\Factory\\Factory\\",
+  "WorkspaceRootPath": "D:\\Design Patterns\\Factory\\Abstract Factory\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35917532-A496-45F0-8D40-2689F9D5411E}|Factory\\Factory.csproj|d:\\design patterns\\factory\\factory\\factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35917532-A496-45F0-8D40-2689F9D5411E}|Factory\\Factory.csproj|solutionrelative:factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80EB36F1-0103-4E5E-9A1E-93990941013E}|Abstract Factory\\Abstract Factory.csproj|d:\\design patterns\\factory\\abstract factory\\abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80EB36F1-0103-4E5E-9A1E-93990941013E}|Abstract Factory\\Abstract Factory.csproj|solutionrelative:abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Design Patterns\\Factory\\Factory\\Factory\\Program.cs",
-              "RelativeDocumentMoniker": "Factory\\Program.cs",
-              "ToolTip": "D:\\Design Patterns\\Factory\\Factory\\Factory\\Program.cs",
-              "RelativeToolTip": "Factory\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwDEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Design Patterns\\Factory\\Abstract Factory\\Abstract Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract Factory\\Program.cs",
+              "ToolTip": "D:\\Design Patterns\\Factory\\Abstract Factory\\Abstract Factory\\Program.cs*",
+              "RelativeToolTip": "Abstract Factory\\Program.cs*",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAiwI0AAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T16:32:52.381Z",
+              "WhenOpened": "2025-06-19T15:52:56.806Z",
               "EditorCaption": ""
             }
           ]
