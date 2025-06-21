@@ -21,20 +21,25 @@ namespace Factory
         }
         public static class PointFactory
         {
-            public static async Task<Point> CreatePolarPoint(double x, double y)
+            /// <summary>
+            /// Creates a point using polar coordinates.
+            /// </summary>
+            /// <param name="radius">The radius from the origin.</param>
+            /// <param name="theta">The angle in radians.</param>
+            public static async Task<Point> CreatePolarPoint(double radius, double theta)
             {
                 await Task.Delay(1000); // Simulate some asynchronous operation
-                return new Point(x, y);
+                return new Point(radius * Math.Cos(theta), radius * Math.Sin(theta));
             }
+
             /// <summary>
-            /// 
+            /// Synchronously creates a point using polar coordinates.
             /// </summary>
-            /// <param name="raw"></param>
-            /// <param name="theata"></param>
-            /// <returns></returns>
-            public static Point CreateRawPoint(double raw, double theata)
+            /// <param name="radius">The radius from the origin.</param>
+            /// <param name="theta">The angle in radians.</param>
+            public static Point CreateRawPoint(double radius, double theta)
             {
-                return new Point(raw * Math.Cos(theata), raw * Math.Sin(theata));
+                return new Point(radius * Math.Cos(theta), radius * Math.Sin(theta));
             }
         }
 
@@ -44,6 +49,7 @@ namespace Factory
         public async static Task Main(string[] args)
         {
             var point = await Point.PointFactory.CreatePolarPoint(1, 1);
+            WriteLine(point);
         }
     }
 }
